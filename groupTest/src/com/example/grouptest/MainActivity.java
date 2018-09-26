@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-private String test;
+ 
 public class MainActivity extends ActionBarActivity {
 	private String intr;
 	private String intr2;
